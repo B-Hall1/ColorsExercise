@@ -1,0 +1,27 @@
+h1 {
+    color:aquamarine ;
+}
+
+h2 {
+    color:#ffe600 ;
+}
+
+h3 {
+    color:#00f ;
+}
+
+h4 {
+    color:#FF000055 ;
+}
+
+h5 {
+    color:#F005 ;
+}
+
+h6 {
+    color:(255,0,255) ;
+}
+
+p {
+    color:(230,230,250,.8) ;
+}
